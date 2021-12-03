@@ -1,2 +1,2 @@
 # Recurrence-Networks
-Construction of recurrence networks and plots from given time series, and computation of basic measures using Networkx.
+Construction of recurrence networks and plots from given time series, and visualization of network using Networkx.
